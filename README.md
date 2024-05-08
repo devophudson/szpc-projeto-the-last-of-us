@@ -1,38 +1,24 @@
-# Página Conceito Estilizada
+Stylized Concept Page
+This project consists of a stylized concept page, created with HTML, CSS, and a bit of JavaScript. The page features a modern and responsive design, using advanced CSS techniques for layout and styling.
 
-Este projeto consiste em uma página conceito estilizada, criada com HTML, CSS e um pouco de JavaScript. A página possui um design moderno e responsivo, utilizando técnicas avançadas de CSS para layout e estilização.
+Resources Used
+HTML5: Used for structuring the page's content.
+CSS3: Employed to style and give flair to the page, including animations and transitions.
+JavaScript: Utilized to add interactivity to the page, such as animations and DOM manipulation.
+Features
+Responsive Layout: The page is designed to display correctly on devices of different sizes and resolutions, such as desktops, tablets, and smartphones.
+Modern Design: It utilizes advanced design and styling techniques to create a modern and appealing appearance.
+Animations and Transitions: Incorporates smooth animations and transitions to enhance the user experience and make the page more dynamic.
+Interactivity: Includes interactive elements that respond to user actions, such as hover effects and click events.
+How to Use
+Clone this repository to your local development environment:
+Open the index.html file in your web browser to view the page.
+Explore the page to see the design, animations, and interactivity implemented.
+Contribution
+Contributions are welcome! If you have suggestions for improvements, bug fixes, or new features, feel free to open an issue or submit a pull request.
 
-## Recursos Utilizados
+Author
+This project was created by Hudson Martins.
 
-- HTML5: Utilizado para a estruturação do conteúdo da página.
-- CSS3: Utilizado para estilizar e dar estilo à página, incluindo animações e transições.
-- JavaScript: Utilizado para adicionar interatividade à página, como animações e manipulação do DOM.
-
-## Características
-
-- **Layout Responsivo**: A página é projetada para ser exibida corretamente em dispositivos de diferentes tamanhos e resoluções, como desktops, tablets e smartphones.
-- **Design Moderno**: Utiliza técnicas avançadas de design e estilização para criar uma aparência moderna e atraente.
-- **Animações e Transições**: Incorpora animações e transições suaves para melhorar a experiência do usuário e tornar a página mais dinâmica.
-- **Interatividade**: Inclui elementos interativos que respondem às ações do usuário, como hover effects e eventos de clique.
-
-## Como Usar
-
-1. Clone este repositório para o seu ambiente de desenvolvimento local:
-  
-2. Abra o arquivo `index.html` em seu navegador da web para visualizar a página.
-
-3. Explore a página para ver o design, as animações e a interatividade implementadas.
-
-## Contribuição
-
-Contribuições são bem-vindas! Se você tiver sugestões de melhorias, correções de bugs ou novos recursos, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-## Autor
-
-Este projeto foi criado por [Hudson Martins](https://github.com/devophudson).
-
-## Licença
-
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
-
-
+License
+This project is licensed under the MIT License. See the LICENSE file for more details.
